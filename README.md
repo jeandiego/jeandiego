@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jeandiego
+- 👀 I'm interested in working as a React Native developer.
+- 🌱 I’m currently learning React Native and Javascript.
+- 💞️ I’m looking to collaborate on awesome projects.
+- 📫 Are you wan`t to get in touch with me? My email adress is jeandiego.ds@gmail.com
